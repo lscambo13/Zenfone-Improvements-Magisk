@@ -29,4 +29,6 @@ Intended for Asus (Zenfone) Max Pro M2, running on last stock Oreo or Android 10
 8. Product Sans font set as default for modern look
 9. Minor other refinements in the Settings app and overall UI
 
+🔽 https://github.com/lscambo13/Zenfone-Improvements-Magisk/releases
+
 ⚠️ Note: Although I made this module for my personal use, I'm sharing this in case someone wants to try.
