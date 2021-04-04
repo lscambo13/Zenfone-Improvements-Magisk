@@ -1,5 +1,4 @@
-# Zenfone-Improvements-Magisk
-Unified releases for Zenfone Q Improvements and Zenfone O Improvements Magisk modules. Intended for stock rom versions Oreo and Q Beta.
+#### Unified releases for Zenfone Q Improvements and Zenfone O Improvements Magisk modules. Intended for stock rom versions Oreo and Q Beta.
 
 ℹ️ This Magisk module adds minimal goodies to improve the look of AOSP rom.
 
